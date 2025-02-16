@@ -1,2 +1,7 @@
 Projeto elaborado para curso técnico com utiização de CSS, HTML, JAVASCRIPT.
 Sem fins lucrativos, somente a título de exemplificação de um projeto MER. 
+Link de acesso pela web:  https://irae-cesar-brandao.github.io/projeto_mer/
+Foi criado o código Diagrama utilizando o programa  brModelo Jar 3.2, e definidas as Entidades, atributos e respectivos relacionamentos.
+Foi também criado um site (código) com linguagem de programação utilizando o VScode utilizando as linguagens de marcação HTML e CSS, bem como gerados os vínculos de forma a representar o código e seus links de navegação dentre os seus atributos. Foi também criada uma conta no GitHub  e disponibilizados o acesso através de um link na web bem como os arquivos gerados do projeto em questão (link de acesso: https://irae-cesar-brandao.github.io/projeto_mer/). 
+O “Projeto MER: Site de compras”  foi gerado como prototipagem de simulação de um site de vendas, com telas de login (usuário e senha) simples e telas de escola de produtos para compra conforme pode-se observar pelos links disponibilizados. 
+Tratando-se de um protótipo e apresentação, o MER gerado é somente uma representação de implementações que poderiam ser feitas dentro do sistema  e atividades de vendas e controles de estoque, entre outros.  Nos tópicos a seguir serão demonstradas todas as etapas do desenvolvimento.
